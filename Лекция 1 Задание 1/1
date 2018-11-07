@@ -1,0 +1,18 @@
+Стоит установить себе адекватный текстовый редактор для работы с веб-сайтами, ибо он вам понадобится как в обучении, так и в работе. Советую Atom (https://atom.io/), sublime text (https://www.sublimetext.com/), можно и notepad++ (https://notepad-plus-plus.org/download/v7.5.8.html). Если есть линуксоиды, которые любят что-то олдовое (как я), тогда посмотрите на emacs или vim - клёвые штуки, если вы разберётесь.
+Поскольку у нас из линуксоидов в основном православные debianщики, пишу скрипты на установку ПО для дебиан (не следует ставить всё и сразу :3)
+Установка Atom:
+sudo add-apt-repository ppa:webupd8team/atom sudo apt update sudo apt install atom
+Установка sublime-text:
+sudo apt-get install sublime-text
+Установка geany:
+sudo apt-get install geany
+Установка emacs:
+sudo apt-get install emacs
+Установка vim:
+sudo apt-get install vim
+
+Пожалуйста, укажите в комментарии свой редактор :3
+
+
+
+Sublime text

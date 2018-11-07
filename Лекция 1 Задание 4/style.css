@@ -1,0 +1,18 @@
+		body{
+				font-family: arial;
+			}
+		table{
+			margin: 0 auto;
+			position: absolute;
+			border-radius: 7px;
+		}
+		td{
+			text-align: center;
+		}
+		.buttons{
+			margin-top: 15%;
+		}
+		.days td{
+			background-color: yellow;
+			color: red;
+		}
